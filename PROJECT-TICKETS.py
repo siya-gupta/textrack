@@ -1,4 +1,4 @@
-####Building a RESTful service that extracts expense date from a receipt by using python language########
+####Building a RESTful service that extracts date from a receipt by using python language########
 ###importing libraries###
 from time import gmtime, strftime
 import re
